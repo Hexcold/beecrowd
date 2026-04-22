@@ -35,6 +35,16 @@ Thumbs.db
 *.dSYM/
 *.stackdump
 
+# Pastas comuns de build/output
+build/
+Build/
+bin/
+Bin/
+output/
+Output/
+out/
+
+
 # =========================
 # JAVA
 # =========================
